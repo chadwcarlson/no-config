@@ -1,0 +1,3 @@
+[submodule "psh-config"]
+	path = psh-config
+	url = https://github.com/chadwcarlson/psh-config
